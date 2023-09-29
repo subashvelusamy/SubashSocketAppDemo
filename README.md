@@ -28,9 +28,9 @@ Step 3: navigate to  SubashSocketAppDemo\WinFormsApp folder
         open WinFormsApp.sln using visual studio 2022 and update all nuget pacakges which are refernced this project
 		(Right click on dependencies and choose manage nuget pacakges)
 		
-		after that you can directly start Winform on Visual studion  by 
+		after that you can directly start Winform on Visual studio  by 
 		
-		click run icon or 
+		clicking run icon or 
 		
 		press  F5 
 		
