@@ -1,7 +1,7 @@
 # SubashSocketAppDemo
 Clone the repo https://github.com/subashvelusamy/SubashSocketAppDemo.git
 
-Ensure that your computer is installed with node js,.net core (6.0+), and visual studio 22 or higher. 
+Ensure that your computer is installed with node js,.net core (6.0+), and visual studio 2022 or higher. 
 
 Step 1: navigate to SocketAppDemo\SocketListner folder and install the pacakges by using the below command
 		npm i
@@ -18,5 +18,4 @@ Step 3: navigate to  SubashSocketAppDemo\WinFormsApp folder
 		(Right click on dependencies and choose manage nuget pacakges)
 		after that you can directly run the app or press  F5 or using command prompt you can use dotnet run
 		
-Now the all 3 application are running and readyb to go to communicat each of them
-		"# SubashSocketAppDemo" 
+Now the all three application are running and its ready for communication between them 
